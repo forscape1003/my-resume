@@ -11,7 +11,7 @@ class Home extends React.Component {
                                     <i className="iconfont icon-biaoti"></i>基本信息
                                 </dt>
                                 <dd>
-                                    <span>个人信息:</span>田冬雪 / 男 / 29岁
+                                    <span>个人信息:</span>hahahahah / 男 / 29岁
                                 </dd>
                                 <dd>
                                     <span>毕业院校:</span>天津大学
