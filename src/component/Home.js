@@ -174,7 +174,8 @@ class Home extends React.Component {
                                     <i className="iconfont icon-biaoti"></i>自我评价
                                 </dt>
                                 <dd>
-                                    <p>xxxxxxxxxxxxxxxxxxxxxx</p>
+                                    <p>自信、乐观、责任心强。具有较好的团队组织能力、分析问题和宣传策划活动能力、协调能力等。学习方面也有较强的求知欲与良好的学习能力。</p>
+                                    <p>为人真诚,惯于换位思考;对自己要求严格，做事情讲究效率;对程序的开发及测试方面很感兴趣;有较强的学习能力，适应行业的要求和新技术的挑战;有较强的求知欲、较强的学习能力。</p>
                                 </dd>
                             </dl>
                         </li>
